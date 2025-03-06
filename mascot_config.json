@@ -1,0 +1,50 @@
+{
+    "image_list": [
+        {
+            "path": "C:/★/作ったやつ/ポケモンGIF/ヌケニン/shedinja.gif",
+            "name": "shedinja.gif",
+            "is_gif": true
+        },
+        {
+            "path": "C:/★/作ったやつ/ポケモンGIF/ダンデ/charizard (2).gif",
+            "name": "charizard (2).gif",
+            "is_gif": true
+        },
+        {
+            "path": "C:/★/作ったやつ/ポケモンGIF/キバナ/330.gif",
+            "name": "330.gif",
+            "is_gif": true
+        }
+    ],
+    "is_topmost": true,
+    "last_mascots": [
+        {
+            "image_index": 0,
+            "position": {
+                "x": 1603,
+                "y": 288
+            }
+        },
+        {
+            "image_index": 0,
+            "position": {
+                "x": 1660,
+                "y": 276
+            }
+        },
+        {
+            "image_index": 0,
+            "position": {
+                "x": 1697,
+                "y": 320
+            }
+        },
+        {
+            "image_index": 1,
+            "position": {
+                "x": 1720,
+                "y": 175
+            }
+        }
+    ]
+}
